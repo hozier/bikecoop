@@ -2,8 +2,8 @@
 //  MapViewController.swift
 //  SidebarMenu
 //
-//  Created by Simon Ng on 2/2/15.
-//  Copyright (c) 2015 AppCoda. All rights reserved.
+//  Created by Philron William Hozier on 11/7/16.
+//  Copyright © 2016 Philron William Hozier. All rights reserved.
 //
 
 import UIKit
